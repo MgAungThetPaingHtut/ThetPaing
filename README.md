@@ -1,2 +1,0 @@
-# ThetPaing
-Just Testing
